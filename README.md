@@ -1,4 +1,4 @@
 # KartvizitApp
 
- [Angular CLI] ile geliştirildi.
+ Angular ile geliştirildi.
 
